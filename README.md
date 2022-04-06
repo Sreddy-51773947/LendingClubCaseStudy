@@ -28,12 +28,17 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 ## Conclusions
 - Conclusion: 
-Annual income with DTI (Debt-to-income ratio) is negatively correlated, however the correlation between them is weak. 
-Loan amount-funded amount, loan amount-funded amount investor and funded amount-funded amount investor have positive correlation.
-Annual income and Loan amount are positively correlated. Number of charged off count is high for the purpose of debt consolidation
-and paying credit card bill. Count of loan application is increasing year to year, increase in number of loan applications are causing
-to more Number of charged off applications. Notice that with increase in annual income charged off proportion got decreased. 
-Interest rate is increasing with increase in loan amount. Interest rate is increasing with increase in loan amount.
+Increase in number of loan applications means increase of number of charged off.
+Increase in annual income results in decreased charged off proportion. 
+Interest rate charged by the company increases with increase in loan amount. 
+Increase in Interest Rate increases the number of Charged off customers. 
+The company can charge lower interest rate to higher income group to decrease the 
+percentage of Charged off customers.
+Purpose of Loan Debt Consolidation – High Charged Off, High risk, charge higher interest 
+rate.
+Bankruptcy record customers – High Risk, Lower Loan Amount and Higher rate.
+Loan amount-funded amount, loan amount-funded amount investor 
+and funded amount-funded amount investor – Strong Positive correlation.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -48,8 +53,8 @@ seaborn
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This Project is intiated by Upgrade as part of Case Study,This was done by myself and Sabyasachi,Its good learning experience to me
-while doing project we learned important many things which are going to useful in real time working life.Thanks to Upgrade team for
+- This Case Study is intiated by Upgrade,This was done by myself and Sabyasachi,Its good learning experience to me
+while doing project we learned important things which are going to useful in real time working life.Thanks to Upgrade team for
 encouraging to do this case study.
 
 
